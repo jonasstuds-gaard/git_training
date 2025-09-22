@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+credentials.r
+# these are the file type that are not version controlled. for sensitive information
